@@ -6,7 +6,6 @@ JMATEC Bulk SMS API provides a lightweight REST interface for sending transactio
 
 ```
 https://api.jmatecsystems.com/api/v1/sms
-
 ```
 
 ---
