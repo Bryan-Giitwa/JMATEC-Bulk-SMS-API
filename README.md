@@ -1,6 +1,6 @@
 # JMATEC Bulk SMS API
 
-JMATEC Bulk SMS API provides a lightweight REST interface for sending transactional and promotional SMS messages and for checking SMS credit balance. It supports single and bulk sends, per-recipient delivery details, sender ID validation, phone-number normalization (to 254XXXXXXXXX), and clear error/status codes to simplify integration and troubleshooting.
+JMATEC Bulk SMS API provides a lightweight REST interface for sending transactional and promotional SMS messages. It supports single and bulk sends, per-recipient delivery details, sender ID validation, phone-number normalization (to 254XXXXXXXXX), and clear error/status codes to simplify integration .
 
 ## Base URL:
 
