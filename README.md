@@ -14,7 +14,7 @@ https://api.jmatecsystems.com/api/v1/sms
 
 ### 1. **Send SMS**
 
-- **Endpoint:** `/sendsms`
+- **Endpoint:** `https://api.jmatecsystems.com/api/v1/sms/sendsms`
 - **Method:** `POST`
 - **Description:** Sends SMS to one or multiple recipients.
 - **Request Body:**
@@ -122,7 +122,7 @@ https://api.jmatecsystems.com/api/v1/sms
 
 ### 2. **Get SMS Balance**
 
-- **Endpoint:** `/credit-balance`
+- **Endpoint:** `https://api.jmatecsystems.com/api/v1/sms/credit-balance`
 - **Method:** `POST`
 - **Description:** Retrieves the SMS credit balance for the authenticated user.
 - **Request Body:**
